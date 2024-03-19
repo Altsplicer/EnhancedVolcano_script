@@ -7,7 +7,7 @@ This a walk-through of the EnhancedVolcano script used for Met Cancer project in
 ## Load data frame
 
 ``` r
-# my_data refers to the data frame of a DeSEQ2 result or 
+# my_data refers to the data frame of a DeSEQ2 result
 # Requires at least the following: column for variable names (can be rownames); a column for log2 fold changes; a column for nominal or adjusted p-value.
 my_data <- read.delim("MB468_0v30_VP.txt", row.names = 1)
 ```
