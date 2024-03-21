@@ -1,5 +1,7 @@
 # [Franco](https://github.com/altsplicer) / [***EnchancedVolcano***](https://altsplicer.github.io/EnhancedVolcano_script/EnhancedDE_VP.html)
 [![.img/gglogo.png](.img/gglogo.png)](#nolink)
+
+Script [LINK](https://github.com/Altsplicer/EnhancedVolcano_script/blob/main/r/EnhancedDE_VP.R)
 ## Overview
 
 This a walk-through of the EnhancedVolcano script used for Met Cancer project in the Hertel and Kaiser lab. EnhancedVolcano is a R package created by Kevin Blighe and colleagues from Bioconductor used in creating publication-ready volcano plots to visualize the results of a differential expression analysis. See the following link for a general [EnhancedVolcano](https://bioconductor.org/packages/release/bioc/vignettes/EnhancedVolcano/inst/doc/EnhancedVolcano.html) tutorial. You can also see this walk-through via this [link](https://altsplicer.github.io/EnhancedVolcano_script/EnhancedDE_VP.html).
